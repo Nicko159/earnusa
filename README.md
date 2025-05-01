@@ -1,24 +1,3 @@
-#earnusa
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EarnUSA</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; background-color: #f0f8ff; }
-    header { background-color: #00274d; color: white; padding: 20px; text-align: center; }
-    nav { background-color: #00509e; text-align: center; padding: 10px; }
-    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
-    section { padding: 30px; text-align: center; }
-    .card { background: white; margin: 20px auto; max-width: 500px; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
-    input, button { padding: 10px; width: 80%; margin: 5px auto; display: block; border-radius: 5px; border: 1px solid #ccc; }
-    footer { background-color: #00274d; color: white; text-align: center; padding: 10px; }
-  </style>
-</head>
-<body>
-
-<header>
   <h1>Welcome to EarnUSA</h1>
   <p>Your smart way to earn online</p>
 </header>
